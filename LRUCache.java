@@ -9,7 +9,7 @@ class cacheElement {
         this.value = value;
         this.key = key;
         this.next = this.prev = this;
-    }å
+    }
 }
 
 class LRUCache {
